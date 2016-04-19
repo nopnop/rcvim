@@ -88,7 +88,7 @@ set viminfo     ='100,n$HOME/.vim/files/info/viminfo
 
 " Define configuration based on plugins
 colorscheme gruvbox
-
+set background =dark
 " Configure
 let g:gitgutter_grep_command = 'grep --color=never -E'
 let g:gitgutter_realtime = 1
