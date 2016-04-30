@@ -1,8 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_cnt =8
 let g:netrw_dirhist_1='scp://u84509710.1and1-data.host/PrestaShop/themes/jms_megamall/modules/jmscustomhtmlhome/'
 let g:netrw_dirhist_2='scp://u84509710.1and1-data.host/PrestaShop/themes/jms_megamall/modules/jmscustomhtmltop/'
 let g:netrw_dirhist_3='scp://u84509710.1and1-data.host/PrestaShop/themes/jms_megamall/docs/'
 let g:netrw_dirhist_4='scp://u84509710.1and1-data.host/PrestaShop/themes/'
 let g:netrw_dirhist_5='scp://u84509710.1and1-data.host/PrestaShop/themes/default-bootstrap/'
 let g:netrw_dirhist_6='scp://u84509710.1and1-data.host/PrestaShop/themes/jms_megamall/'
+let g:netrw_dirhist_7='scp://u84509710.1and1-data.host/PrestaShop/modules/'
+let g:netrw_dirhist_8='scp://u84509710.1and1-data.host/PrestaShop/modules/jmsdropmegamenu/'
