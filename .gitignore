@@ -1,3 +1,9 @@
 #/autoload
-/files
-/plugged
+/files/backup/**
+/files/info/**
+/files/swap/**
+/files/undo/**
+!/files/**/.empty
+/plugged/**
+!/plugged/.empty
+.netrwhist
