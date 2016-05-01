@@ -94,3 +94,8 @@ set background =dark
 let g:gitgutter_grep_command = 'grep --color=never -E'
 let g:gitgutter_realtime = 1
 let g:airline_powerline_fonts = 1
+
+" Completion
+set wildmenu
+set wildmode=longest,list
+imap <Tab> <C-X><C-F>
