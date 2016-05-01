@@ -99,3 +99,7 @@ let g:airline_powerline_fonts = 1
 set wildmenu
 set wildmode=longest,list
 imap <Tab> <C-X><C-F>
+
+" Cmd+s to save ...
+:map <M-s> :w<kEnter>  "Works in normal mode, must press Esc first"
+:imap <M-s> <Esc>:w<kEnter>i "Works in insert mode, saves and puts back in insert mode"
