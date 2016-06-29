@@ -100,3 +100,5 @@ set wildmenu
 set wildmode=longest,list
 imap <Tab> <C-X><C-F>
 
+" See http://vim.wikia.com/wiki/Editing_crontab
+set backupskip=/tmp/*,/private/tmp/*
